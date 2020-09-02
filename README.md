@@ -11,5 +11,7 @@ SOOBER is a decentralized ride sharing system on ethereum blockchain
 
 ## Tools and Program used
  **Truffle project** - For deployment of  contracts into network
+ 
  **Ganache CLI** - For testing in local network
+ 
  **Solidity** - Ethereum smart contract
